@@ -13,7 +13,7 @@ O curso está disponível em: [https://markdown.showmethecode.com.br/](https://m
 1. Introdução ao Markdown
 2. Conheça algumas ferramentas para trabalhar com Markdown
 3. Cabeçalhos
-4. Parágrafos, espaçamentos e quebras de linha
+4. Parágrafos, quebras de linha e espaçamentos
 5. Ênfase: Negrito, itálico, riscado e citações
 6. Listas não-ordenadas
 7. Listas ordenadas
