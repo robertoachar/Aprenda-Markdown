@@ -15,11 +15,11 @@ O curso está disponível em: [https://markdown.showmethecode.com.br/](https://m
 3. Cabeçalhos
 4. Parágrafos, quebras de linha e espaçamentos
 5. Ênfase: Negrito, itálico, riscado e citações
-6. Listas não-ordenadas
-7. Listas ordenadas
-8. Links
-9. Imagens
-10. Linhas Horizontais
+6. Linhas Horizontais
+7. Listas não-ordenadas
+8. Listas ordenadas
+9. Links
+10. Imagens
 11. Tabelas: colunas, linhas e alinhamento
 12. Códigos em linha, em blocos e _syntax highlighting_
 13. Github: dicas e truques
