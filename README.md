@@ -1,6 +1,6 @@
 # Aprenda Markdown
 
-> Aprenda Markdown em 35 minutos com um mini-curso de 14 vídeo-aulas.
+> Aprenda Markdown em 35 minutos com um mini-curso gratuito de 14 vídeo-aulas.
 
 ![Preview](/preview/preview.png)
 
