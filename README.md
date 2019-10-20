@@ -6,7 +6,7 @@
 
 O curso aborda a sintaxe da linguagem com exemplos, mostra algumas dicas e truques para utilizar Markdown no GitHub e ao final apresenta um caso real de utilização da linguagem.
 
-O curso está disponível em: [https://markdown.showmethecode.com.br/](https://markdown.showmethecode.com.br/).
+O curso está disponível em: [https://www.udemy.com/course/aprenda-markdown/](https://www.udemy.com/course/aprenda-markdown/).
 
 # Vídeo-aulas
 
